@@ -1,7 +1,11 @@
-# boost - master branch
+# Boost C++ Libraries
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
+The Boost project provides free peer-reviewed portable C++ source libraries.
 
-Commit Time: 1734554010
+We emphasize libraries that work well with the C++ Standard Library. Boost
+libraries are intended to be widely useful, and usable across a broad spectrum
+of applications. The Boost license encourages both commercial and non-commercial use
+and does not require attribution for binary use.
+
+The project website is www.boost.org, where you can obtain more information and
+[download](https://www.boost.org/users/download/) the current release.
